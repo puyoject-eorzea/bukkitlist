@@ -1,0 +1,23 @@
+{
+  "name": "bucketlist",
+  "version": "1.0.0",
+  "private": true,
+  "description": "final fantasy bukkit list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puyoject-eorzea/bukkitlist.git"
+  },
+  "keywords": [
+    "ffxiv"
+  ],
+  "author": "puyo_nim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/puyoject-eorzea/bukkitlist/issues"
+  },
+  "homepage": "https://github.com/puyoject-eorzea/bukkitlist#readme"
+}
